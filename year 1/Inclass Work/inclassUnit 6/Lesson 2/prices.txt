@@ -1,0 +1,4 @@
+Kettle		23.95
+Toaster		25.49
+Stove		549.99
+Microwave	99
